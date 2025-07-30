@@ -45,7 +45,8 @@
     transition: all 0.2s ease;
 }
 body {
-    background-color: #7D3C98;
+    background-color: #fff;
+    color: #3D1766;
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
